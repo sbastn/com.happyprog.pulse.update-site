@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.happyprog.pulse.feature_1.0.0.201103152017.jar" id="com.happyprog.pulse.feature" version="1.0.0.201103152017">
+      <category name="Pulse"/>
+   </feature>
+   <category-def name="Pulse" label="Pulse"/>
+</site>
